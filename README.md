@@ -19,5 +19,6 @@
   cd java-con-send-mail
   rm -rf .git
   mv -f Main.java ..
+  mv -f README.md ..
   cd .. 
   ```
