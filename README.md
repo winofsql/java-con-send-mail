@@ -15,8 +15,8 @@
   - ### Replit用
   ```
   export PS1="$ "
-  git clone https://github.com/winofsql/java-net-post.git
-  cd java-net-post
+  git clone https://github.com/winofsql/java-con-send-mail.git
+  cd java-con-send-mail
   rm -rf .git
   mv -f Main.java ..
   cd .. 
