@@ -11,3 +11,13 @@
   </dependencies>
   ``` 
   - ### [javax.mail.jar](https://github.com/javaee/javamail/releases/download/JAVAMAIL-1_6_2/javax.mail.jar)
+
+  - ### Replit用
+  ```
+  export PS1="$ "
+  git clone https://github.com/winofsql/java-net-post.git
+  cd java-net-post
+  rm -rf .git
+  mv -f Main.java ..
+  cd .. 
+  ```
